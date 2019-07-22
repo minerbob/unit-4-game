@@ -1,0 +1,34 @@
+
+#headerTop{
+    background: #ebebeb;
+}
+
+#headlineTop{
+    background: orangered;
+    color: white;
+}
+
+
+p{
+    background: #ebebeb;
+    color: green;
+}
+
+#gridContainer{
+    background: #ebebeb;
+}
+
+#buttonsContainer{
+    background: #ebebeb;
+    clear:both;
+}
+
+
+#footer1Container{
+    background: #ebebeb;
+}
+
+#footer2Container{
+    background: #ebebeb;
+}
+
