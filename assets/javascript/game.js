@@ -5,7 +5,7 @@ $(document).ready(function() {
     var wins = 0;
     var losses = 0;
     var score = 0;
-    var ranNumButton = Math.floor((Math.random() * 100) + 1);
+    var ranNumButton = Math.floor((Math.random() * 100) + 30);
 
     $("#wins").text(wins);
     $("#losses").text(losses);
