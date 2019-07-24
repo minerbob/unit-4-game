@@ -1,11 +1,14 @@
 
 #headerTop{
     background: #ebebeb;
+   
 }
 
 #headlineTop{
     background: orangered;
     color: white;
+    display: inline-block;
+   
 }
 
 p{
